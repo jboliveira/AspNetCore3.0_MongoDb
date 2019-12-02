@@ -1,11 +1,6 @@
 # Asp.Net Core WebAPI 3.0 with MongoDB #
 
-- **Builds**
-
 [![Actions Status](https://github.com/jboliveira/AspNetCore3.0_MongoDb/workflows/Build/badge.svg)](https://github.com/jboliveira/AspNetCore3.0_MongoDb/actions)
-
-- **GitHub**
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/jboliveira/AspNetCore3.0_MongoDb.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jboliveira/AspNetCore3.0_MongoDb.svg)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/jboliveira/AspNetCore3.0_MongoDb.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jboliveira/AspNetCore3.0_MongoDb/alerts/)
