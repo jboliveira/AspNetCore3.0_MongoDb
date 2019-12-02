@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3FACCEC7-2BA4-4DEC-AC9C-04F4F645ABDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApi", "src\SampleApi\SampleApi.csproj", "{6D45BB8B-484D-4F6E-8E5E-BBA24D4D9CB3}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{5E61DAEE-B4CD-4723-9F31-47A59259453F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{169F5836-8C23-4A86-A10C-B42017A78C7A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D45BB8B-484D-4F6E-8E5E-BBA24D4D9CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D45BB8B-484D-4F6E-8E5E-BBA24D4D9CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D45BB8B-484D-4F6E-8E5E-BBA24D4D9CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D45BB8B-484D-4F6E-8E5E-BBA24D4D9CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E61DAEE-B4CD-4723-9F31-47A59259453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E61DAEE-B4CD-4723-9F31-47A59259453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E61DAEE-B4CD-4723-9F31-47A59259453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E61DAEE-B4CD-4723-9F31-47A59259453F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D45BB8B-484D-4F6E-8E5E-BBA24D4D9CB3} = {3FACCEC7-2BA4-4DEC-AC9C-04F4F645ABDF}
+	EndGlobalSection
+EndGlobal
