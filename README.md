@@ -17,7 +17,7 @@
 - MongoDB
 - Docker
 
-### Installing and Running via Docker Compose ###
+## Installing and Running via Docker Compose ##
 
 ```sh
     #Clone Git Repository
@@ -33,7 +33,7 @@
     https://localhost:5000/swagger
 ```
 
-### Installing and Running via .NET CLI ###
+## Installing and Running via .NET CLI ##
 
 > Important: Install and run MongoDB. For more information, [click here](https://docs.mongodb.com/manual/administration/install-community/).
 
